@@ -1,3 +1,3 @@
 # Odin-Recipes
 
-Projet is related to different Recipes,desciption and procedure to cook it 😊
+Project is related to different Recipes,description and procedure to cook it 😊

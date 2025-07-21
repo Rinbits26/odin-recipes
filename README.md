@@ -1,2 +1,3 @@
-# odin-recipes
-Odin recipes project is related to creating a webpage which will show different receipes.
+# Odin-Recipes
+
+Projet is related to different Recipes,desciption and procedure to cook it 😊
